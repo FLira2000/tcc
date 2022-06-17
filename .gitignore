@@ -25,3 +25,8 @@ replay_pid*
 
 
 Leiningen.gitignore
+
+/.metals/
+/.vscode/
+
+.scalafmt.conf
