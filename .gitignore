@@ -32,3 +32,14 @@ Leiningen.gitignore
 .scalafmt.conf
 
 /.lsp/
+
+/.clj-kondo/
+project/build.properties
+
+/.calva/
+.nrepl-port
+
+/target/
+/project/
+
+/.bloop/

@@ -1,4 +1,4 @@
-class JavaGreeter {
+class Main {
     private static String greet(String name) {
         return "Hello, " + name + "!";
     }
