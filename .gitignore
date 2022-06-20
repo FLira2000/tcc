@@ -44,3 +44,7 @@ project/build.properties
 /.bloop/
 
 *.cache
+
+pom.xml.asc
+pom.xml
+profiles.clj
